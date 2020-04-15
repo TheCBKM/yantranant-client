@@ -3,7 +3,8 @@
 // const url = "http://ec2-18-219-2-225.us-east-2.compute.amazonaws.com:3003"
 
 
-const url = "http://ec2-34-243-4-177.eu-west-1.compute.amazonaws.com:3002"
+//const url = "http://ec2-34-243-4-177.eu-west-1.compute.amazonaws.com:3002"
+const url = "https://server.yantranant.in"
 
 const getStorage = (item) => (JSON.parse(localStorage.getItem(item)))
 
